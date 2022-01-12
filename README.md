@@ -2,6 +2,7 @@
 #🔭 I’m currently as a student pursing B.Tech ...<br>
 #🌱 I’m currently learning Machine learning and android develpoment...<br>
 #👉 I'm involved in a number of communities. I'm a machine learning aficionado who enjoys learning and constructing learning models.<br>
+#✌  Work Hard Everyday..<br>
 #💬 Ask me anything.. happy to help you all out ...
 
 <!--
