@@ -4,7 +4,7 @@
 #👉 I'm involved in a number of communities. I'm a machine learning aficionado who enjoys learning and constructing      learning models.<br>
 #✌  Work Hard Everyday..<br>
 #🌟 coding is life <br>
-#✨ start coding today<br>
+#✨ you can not get success in a single step..you have to go step by step..and the first step starts with the letter **H**....**HARDWORK**<br>
 #💬 Ask me anything.. happy to help you all out ...
 
 <!--
