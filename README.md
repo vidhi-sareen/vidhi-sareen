@@ -5,6 +5,7 @@
 #✌  Work Hard Everyday..<br>
 #🌟 coding is life... <br>
 #✨ you can not get success in a single step..you have to go step by step..and the first step starts with the letter **H**....**HARDWORK**<br>
+🤩🤩🎇🎇
 
 <!--
 **vidhi-sareen/vidhi-sareen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
