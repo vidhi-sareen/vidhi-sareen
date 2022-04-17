@@ -4,7 +4,7 @@
 👉 I'm involved in a number of communities. I'm a machine learning aficionado who enjoys learning and constructing learning models.<br>
 ✌  Work Hard Everyday..<br>
 ✨ you can not get success in a single step..you have to go step by step..and the first step starts with the letter **H**....**HARDWORK**<br>
-🎉 love to collaborate with ML, AI and CV projects.
+🎉 love to collaborate with ML, AI and CV projects.😊😊
 
 <!--
 **vidhi-sareen/vidhi-sareen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
