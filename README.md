@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/vidhi-sareen/vidhi-sareen/blob/main/HELLO!%20I'M%20VIDHI.png)
+<img src='https://github.com/vidhi-sareen/vidhi-sareen/blob/main/HELLO!%20I'M%20VIDHI.png' alt="banner"></img>
 
 
 <h1 align="center">Hi 👋, I'm Vidhi Sareen</h1>
