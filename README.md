@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="700" height="400" src="https://github.com/vidhi-sareen/vidhi-sareen/blob/main/HELLO!%20I'M%20VIDHI.png">
+</p>
 
 <h1 align="center">Hi 👋, I'm Vidhi Sareen</h1>
 <h3 align="center">Currently pursing B. TECH in Computer Science Engineering Specialization in Machine Learning and Artificial Intelligence with experience working across Artificial intelligence and machine learning and many more. Looking for a role where I can grow and learn from experience team member while drawing on project experience I have already successfully executed. In future I would love to learn and cultivate new technology which will enhance my skills.</h3>
@@ -14,7 +17,7 @@
 
 - 💬 Ask me about **DS, Algorithms, Machine Learning, AI**
 
-- 📫 How to reach me **vidhisareen24@gmail.com**
+- 📫 How to reach me **vidhisareen42@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
