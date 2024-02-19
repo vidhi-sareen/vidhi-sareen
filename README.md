@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="700" height="500" src="https://github.com/vidhi-sareen/vidhi-sareen/blob/main/HELLO!%20I'M%20VIDHI.png">
+  <img width="800" height="550" src="https://github.com/vidhi-sareen/vidhi-sareen/blob/main/HELLO!%20I'M%20VIDHI.png">
 </p>
 
 <h1 align="center">Hi 👋, I'm Vidhi Sareen</h1>
