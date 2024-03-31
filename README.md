@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **vidhisareen24@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/6/home](https://drive.google.com/drive/u/6/home)
+- 📄 Know about my experiences [https://drive.google.com/drive/u/6/home](https://drive.google.com/file/d/1wTGFjvjXSYElqOLasdff2GAz1EV32A-x/view?usp=sharing)
 
 - ⚡ Fun fact **I once built a chatbot that could tell jokes better than I can!🤣**
 
